@@ -1,0 +1,12 @@
+{
+  "name": "git.exercise.fast_forward",
+  "version": "1.0.0",
+  "description": "Este repositorio tiene como finalidad probar esta metodología de ramas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
